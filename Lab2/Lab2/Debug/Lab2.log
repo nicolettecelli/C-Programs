@@ -1,0 +1,14 @@
+﻿  lab2.c
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(20): warning C4013: 'getopt' undefined; assuming extern returning int
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(48): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(48): warning C4024: 'atoi': different types for formal and actual parameter 1
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(49): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(49): warning C4024: 'atoi': different types for formal and actual parameter 1
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(50): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(50): warning C4024: 'atoi': different types for formal and actual parameter 1
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(51): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(51): warning C4024: 'atoi': different types for formal and actual parameter 1
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(73): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab2\lab2\lab2.c(73): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+lab2.obj : error LNK2019: unresolved external symbol _getopt referenced in function _main
+C:\Users\alkfnl\Desktop\school\2016-2017\Programming III (COP 4338)\Assignments\Lab2\Debug\Lab2.exe : fatal error LNK1120: 1 unresolved externals

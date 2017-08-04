@@ -1,0 +1,8 @@
+﻿  lab5.c
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(19): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(19): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(19): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(19): note: this argument is used as a buffer size
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(23): error C4700: uninitialized local variable 'input' used
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(27): error C4700: uninitialized local variable 'zerobits' used
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab5\lab5\lab5.c(29): error C4700: uninitialized local variable 'onebits' used

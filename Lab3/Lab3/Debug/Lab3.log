@@ -1,0 +1,4 @@
+﻿  lab3.c
+c:\users\alkfnl\desktop\school\2016-2017\programming iii (cop 4338)\assignments\lab3\lab3\lab3.c(16): warning C4013: 'atoi' undefined; assuming extern returning int
+  Lab3.vcxproj -> C:\Users\alkfnl\Desktop\school\2016-2017\Programming III (COP 4338)\Assignments\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\alkfnl\Desktop\school\2016-2017\Programming III (COP 4338)\Assignments\Lab3\Debug\Lab3.pdb (Full PDB)
